@@ -1,0 +1,2 @@
+Ramificação!
+Ramificação devBobecho Ramificação! >> arquivo.txt
